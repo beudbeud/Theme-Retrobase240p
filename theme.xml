@@ -1,0 +1,114 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	
+	<!--
+	############################
+	GLOBAL
+	############################
+	-->
+	<view name="system, detailed">
+		<image name="logo">
+			<path>./_assets/img/systems_logos/$system - whlogo.png</path>
+			<path>./_assets/img/systems_logos/$system - whlogo.svg</path>
+		</image>
+		<image name="logo" lang="fr">
+			<path>./_assets/img/systems_logos/$system - whlogo-fr.png</path>
+			<path>./_assets/img/systems_logos/$system - whlogo-fr.svg</path>
+		</image>
+		<image name="logo" region="eu">
+			<path>./_assets/img/systems_logos/$system - whlogo-eu.png</path>
+			<path>./_assets/img/systems_logos/$system - whlogo-eu.svg</path>
+		</image>
+		<image name="logo" region="jp">
+			<path>./_assets/img/systems_logos/$system - whlogo-jp.png</path>
+			<path>./_assets/img/systems_logos/$system - whlogo-jp.svg</path>
+		</image>
+		<image name="logo"  region="us">
+			<path>./_assets/img/systems_logos/$system - whlogo-us.png</path>
+			<path>./_assets/img/systems_logos/$system - whlogo-us.svg</path>
+		</image>    
+	
+		<helpsystem name="help">
+            <pos>1 1</pos>
+        </helpsystem>	    
+	</view>
+	
+	<view name="system, basic, detailed, gameclip">
+		<menuText name="menutext">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>35495EFF</color>
+			<separatorColor>35495EFF</separatorColor>
+			<selectorColor>35495EFF</selectorColor>
+			<selectedColor>FFFFFFCC</selectedColor>
+		</menuText>
+	</view>
+	
+	
+	
+	<!--
+	############################
+	SYSTEM VIEWS
+	############################
+	-->
+	<include>./_views/system/system_view.xml</include>
+	
+	
+	
+	
+	<!--
+	############################
+	GAMELIST VIEWS
+	############################
+	-->
+	<include>./_views/game/detailed_view.xml</include>
+	
+	
+	
+	
+	
+	<!-- MENU -->
+	<view name="menu">
+        <menuBackground name="menubg">
+			<color>2c2c3cCC</color>
+			<path>./_assets/img/box_shadow.png</path>
+		</menuBackground>
+		<menuText name="menutitle">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>0.038</fontSize>
+			<fontSize tinyScreen="true">0.046</fontSize>
+			<color>ffffff</color>
+		</menuText>
+		<menuText name="menufooter">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>0.025</fontSize>
+			<color>ffffff</color>
+		</menuText>
+		<menuText name="menutext">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>6</fontSize>
+			<color>ffffff</color>
+			<separatorColor>00000000</separatorColor>
+			<selectorColor>1d1d5b</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+		</menuText>
+		<menuTextSmall name="menutextsmall">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<color>6d6dbc</color> 
+		</menuTextSmall>
+	</view>
+     
+	
+
+
+	
+	<!--
+	<include subset="iconset" name="1-snes">./_views/iconsets/snes.xml</include>
+	<include subset="iconset" name="2-xbox">./_views/iconsets/xbox.xml</include>
+	<include subset="iconset" name="3-psx">./_views/iconsets/psx.xml</include>
+	<include subset="iconset" name="4-arcade">./_views/iconsets/psx.xml</include>
+	-->
+
+
+</theme>

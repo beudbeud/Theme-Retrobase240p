@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<feature supported="carousel">
+		<view name="system">
+			<carousel name="systemcarousel">
+			    <type>vertical</type>
+			    <pos>0 0</pos>
+                <origin>0 0</origin>
+                <size>0.25 1</size>
+				<color>252530</color>
+				<logoScale>2</logoScale>
+                <logoSize>0.10 0.10</logoSize>
+                <logoAlignment>center</logoAlignment>
+                <maxLogoCount>7</maxLogoCount>
+                <zIndex>290</zIndex>
+                <defaultTransition>fade</defaultTransition>
+			</carousel>
+		</view>
+	</feature>
+
+	<view name="system">
+        <image name="background" extra="true">
+			<tile>true</tile>
+			<size>1 1</size>
+			<pos>0.5 0</pos>
+			<origin>0 0</origin>
+			<path>../../_assets/img/systems_covers/default.jpg</path>
+			<path>.../../_assets/img/systems_covers/$system.jpg</path>
+		</image>
+		<image name="bg" extra="true">
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>../../_assets/img/systems_covers/default.jpg</path>
+			<path>../../_assets/img/systems_covers/$system.jpg</path>
+			<zIndex>10</zIndex>
+		</image>			
+		<image name="bgoverlay" extra="true">
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>../../_assets/img/system_bg1.png</path>
+			<zIndex>30</zIndex>
+		</image>
+
+
+		<image name="gamemarker" extra="true">
+			<path>../../_assets/img/marker.png</path>
+			<size>0.001 0.11</size>
+			<pos>0.249 0.44</pos>
+			<origin>0 0</origin>
+			<zIndex>30</zIndex>
+		</image>
+				
+		
+		<!-- LOGO  SUR  BG SYSTEME-->
+		<image name="mainlogo">
+			<origin>0 1</origin>
+			<path>../../_assets/img/systems_logos/$system - whlogo.png</path>
+			<path>../../_assets/img/systems_logos/$system - whlogo.svg</path>
+			<pos>0.30 0.20</pos>
+			<maxSize>0.3 0.18</maxSize>
+			<zIndex>100</zIndex>
+		</image>
+
+		<image name="mainlogo" extra="true" lang="fr">
+			<path>../../_assets/img/systems_logos/$system - whlogo-fr.png</path>
+		</image>
+		<image name="mainlogo" extra="true" lang="fr">
+			<path>../../_assets/img/systems_logos/$system - whlogo-fr.svg</path>
+		</image>
+		<image name="mainlogo" extra="true" region="eu">
+			<path>../../_assets/img/systems_logos/$system - whlogo-eu.png</path>
+		</image>
+		<image name="mainlogo" extra="true" region="eu">
+			<path>../../_assets/img/systems_logos/$system - whlogo-eu.svg</path>
+		</image>
+		<image name="mainlogo" extra="true" region="jp">
+			<path>../../_assets/img/systems_logos/$system - whlogo-jp.png</path>
+		</image>
+		<image name="mainlogo" extra="true" region="jp">
+			<path>../../_assets/img/systems_logos/$system - whlogo-jp.svg</path>
+		</image>
+		<image name="mainlogo" extra="true"  region="us">
+			<path>../../_assets/img/systems_logos/$system - whlogo-us.png</path>
+		</image>
+		<image name="mainlogo" extra="true"  region="us">
+			<path>../../_assets/img/systems_logos/$system - whlogo-us.svg</path>
+		</image>
+		<image name="mainlogo" extra="true" region="mix">
+			<path>../../_assets/img/systems_logos/$system - whlogo.png</path>
+		</image>
+        <image name="mainlogo" extra="true" region="mix">
+			<path>../../_assets/img/systems_logos/$system - whlogo.svg</path>
+		</image>
+
+		<text name="systemInfo">
+			<pos>0.30 0.22</pos>
+			<size>0.14 0.025</size>
+			<backgroundColor>00000000</backgroundColor>
+			<color>4e4e90</color>
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<alignment>left</alignment>
+		</text>
+		
+		<image name="controller" extra="true">
+			<pos>0.78 0.30</pos>
+			<maxSize>0.15 0.25</maxSize>
+			<origin>1 1</origin>
+		</image>
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10" extra="false">
+			<pos>1 1</pos>
+		</text>		
+		
+		<sound name="directory">
+			<path>../recalbox-next/music</path>
+		</sound>
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<alignment>left</alignment>
+		</text>
+		<image name="controller" extra="true">
+			<path>../../../recalbox-next/$system/data/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="eu">
+			<path>../../../recalbox-next/$system/data/eu/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<path>../../../recalbox-next/$system/data/jp/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="us">
+			<path>../../../recalbox-next/$system/data/us/controller.svg</path>
+		</image>
+		
+
+		
+	</view>
+
+</theme>
