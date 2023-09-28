@@ -1,5 +1,7 @@
-Adaptation of recalbox-next theme for 240p resolutions
+RETROBASE 240p for RGB DUAL
+--------------------------------------------------------------------
+Based and Adaptated from recalbox theme for 240p
 
-* pixel perfect font
-* horizontal carousel
-* lightweight: using all systems and assets for recalbox-next
+
+Version : 1.0
+Author : B.BOUNAR
