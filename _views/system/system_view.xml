@@ -123,18 +123,7 @@
 			<fontSize>7</fontSize>
 			<alignment>left</alignment>
 		</text>
-		<image name="controller" extra="true">
-			<path>../../../recalbox-next/$system/data/controller.svg</path>
-		</image>
-		<image name="controller" extra="true" region="eu">
-			<path>../../../recalbox-next/$system/data/eu/controller.svg</path>
-		</image>
-		<image name="controller" extra="true" region="jp">
-			<path>../../../recalbox-next/$system/data/jp/controller.svg</path>
-		</image>
-		<image name="controller" extra="true" region="us">
-			<path>../../../recalbox-next/$system/data/us/controller.svg</path>
-		</image>
+		
 		
 
 		

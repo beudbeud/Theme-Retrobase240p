@@ -72,8 +72,8 @@
         
         <!--/// COLONNE INFO ///-->
         <rating name="md_rating">
-			<filledPath>../../../recalbox-next/$system/data/icon_filled.svg</filledPath>
-			<unfilledPath>../../../recalbox-next/$system/data/icon_empty.svg</unfilledPath>
+			<filledPath>../../_assets/img/icons/star_filled.png</filledPath>
+			<unfilledPath>../../_assets/img/icons/star_empty.png</unfilledPath>
 			<pos>0.01 0.68</pos>
 		</rating>
         <text name="md_lbl_players">
@@ -119,9 +119,7 @@
 			<size>0.55 0.2</size>
 			<pos>0.015 0.79</pos>
 		</text>
-        <image name="controls" extra="true">
-			<path>../../../recalbox-next/$system/data/controls.svg</path>
-		</image>
+         
 
     </view>
 	
