@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 383.1 54.6">
+  <g>
+    <polyline points="64.3 50.6 64.3 20.8 79.8 5.4 95.1 21.5 95.1 50.6" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <polyline points="111.5 50.6 111.5 5.4 134.5 5.4 141.4 12.6 141.4 28.7 133.9 36.3 112.7 36.3" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <polygon points="159.6 5.4 181.9 5.4 189.2 12.6 189.2 43.5 182.4 50.6 159.6 50.6 159.6 5.4" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <polyline points="206.6 4.7 206.6 43.8 214.4 50.6 229 50.6 237.1 43 237.1 4.7" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <polygon points="254.7 4.7 277.1 4.7 284.1 11.6 284.1 18.6 276.2 28 284.1 34.8 284.1 43.7 277.1 50.6 254.7 50.6 254.7 4.7" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <line x1="255.9" y1="27.6" x2="276.2" y2="28" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <line x1="142.9" y1="50.6" x2="128.9" y2="36.3" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <line x1="66.5" y1="28" x2="93" y2="28" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <polygon points="301.4 11.7 301.4 42.7 309.3 50.6 323.8 50.6 331.9 42.5 331.9 12.7 324 4.7 309.5 4.7 301.4 11.7" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <polyline points="348.8 4.7 348.8 12.6 363.8 26.7 379.1 12.2 379.1 4" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+    <line x1="363.9" y1="50.6" x2="363.8" y2="26.7" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 8px;"/>
+  </g>
+  <g>
+    <polygon points="51.5 20.3 51.5 18.6 35.9 18.6 35.9 20 49.8 20 49.8 20.1 49.8 21.8 51.4 21.8 51.4 33.9 49.8 33.9 49.8 35.6 35.9 35.6 35.9 37.4 51.5 37.4 51.5 35.7 53 35.7 53 20.3 51.5 20.3" style="fill: #fff; stroke: #fff; stroke-miterlimit: 10;"/>
+    <polygon points="17 34 17 35.7 3.1 35.7 3.1 34 1.5 34 1.5 21.9 3.2 21.9 3.2 20.2 17 20.2 17 20.1 17.1 20.2 17.1 18.6 1.6 18.6 1.6 20.3 0 20.3 0 35.7 1.6 35.7 1.6 37.4 17.1 37.4 17.1 34 17 34" style="fill: #fff; stroke-width: 0px;"/>
+    <path d="m35.9,33.9h-1.7v-1.6h-1.7v-1.7h-1.7v-1.7h-1.7v-1.7h1.7v-1.7h1.7v-1.9h1.7v-1.9h1.7V3.1h-1.7v-1.6h-15.3v1.6h-1.8v18.7h1.6v1.9h1.7v1.9h1.7v1.7h1.7v1.7h-1.7v1.7h-1.7v1.7h-1.7v1.6h-1.6v18.9h1.8v1.6h15.3v-1.6h1.7v-19Zm-13.6-12v-1.7h-1.9v-1.7h-1.7V4.6h1.7v-1.6h12.2v1.6h1.7v13.9h-1.7v1.7h-1.6v1.7h-1.7v1.7h-1.7v1.7h-1.7v-1.7h-1.7v-1.7h-1.9Zm12,29.3h-1.7v1.6h-12.1v-1.6h-1.7v-13.9h1.7v-1.7h1.9v-1.7h1.9v-1.7h1.7v-1.7h1.7-.1v1.7h1.7v1.7h1.7v1.7h1.6v1.7h1.7v13.9Z" style="fill: #fff; stroke-width: 0px;"/>
+    <polygon points="24.3 19.9 26.2 19.9 26.2 21.6 27.3 21.6 27.3 19.9 29 19.9 29 18.2 30.6 18.2 30.6 16.5 32.3 16.5 32.3 6.6 30.6 6.6 30.6 5 30.5 5 22.4 5 22.4 6.6 20.7 6.6 20.7 16.5 22.4 16.5 22.4 18.2 24.3 18.2 24.3 19.9" style="fill: #fff; stroke-width: 0px;"/>
+    <polygon points="30.6 37.6 29 37.6 29 35.9 27.3 35.9 27.3 34.2 26.3 34.2 26.3 35.9 24.4 35.9 24.4 37.6 22.5 37.6 22.5 39.3 20.8 39.3 20.8 49.2 22.5 49.2 22.5 50.8 30.6 50.8 30.6 49.2 32.3 49.2 32.3 39.3 30.6 39.3 30.6 37.6" style="fill: #fff; stroke-width: 0px;"/>
+    <path d="m15.1,23.8v-1.6H5.2v1.7h-1.6v8.1h1.6v1.7h9.9v-1.7h1.7v-1.6h1.7v-1.7h1.7v-1.1h-1.7v-1.9h-1.7v-1.9h-1.7Zm1.6,4.1h-1.7v-1.7H5v-1.7h10v1.7h1.7v1.7Z" style="fill: #fff; stroke-width: 0px;"/>
+    <polygon points="17 20.2 17.1 20.2 17 20.1 17 20.2" style="fill: #f6f6f6; stroke-width: 0px;"/>
+    <path d="m36.2,25.6h-1.7v1.9h-1.7v1.1h1.7v1.7h1.7v1.6h1.7v1.7h9.9v-1.7h1.6v-8.1h-1.6v-1.8h-9.9v1.7h-1.7v1.9Zm9.7,1.4h1.6v1.7h-1.6v-1.7Zm-6.6-1.8h6.5v1.7h-6.5v-1.7Z" style="fill: #fff; stroke-width: 0px;"/>
+    <rect x="15" y="26.2" width="1.7" height="1.7" style="fill: #fff; stroke-width: 0px;"/>
+    <rect x="5" y="24.5" width="10" height="1.7" style="fill: #fff; stroke-width: 0px;"/>
+    <rect x="39.3" y="25.2" width="6.5" height="1.7" style="fill: #fff; stroke-width: 0px;"/>
+    <rect x="45.9" y="27" width="1.6" height="1.7" style="fill: #fff; stroke-width: 0px;"/>
+  </g>
+</svg>
