@@ -1,7 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	
-	
 	<!--
 	############################
 	GLOBAL
@@ -44,31 +43,8 @@
 			<selectedColor>FFFFFFCC</selectedColor>
 		</menuText>
 	</view>
-	
-	
-	
-	<!--
-	############################
-	SYSTEM VIEWS
-	############################
-	-->
-	<include>./_views/system/system_view.xml</include>
-	
-	
-	
-	
-	<!--
-	############################
-	GAMELIST VIEWS
-	############################
-	-->
-	<include>./_views/game/detailed_view.xml</include>
-	
-	
-	
-	
-	
-	<!-- MENU -->
+    
+    <!-- MENU -->
 	<view name="menu">
         <menuBackground name="menubg">
 			<color>2c2c3cCC</color>
@@ -98,17 +74,35 @@
 			<color>6d6dbc</color> 
 		</menuTextSmall>
 	</view>
-     
-	
+    
+    <!-- HELP NAV -->
+	<view name="menu, system, basic, detailed, gameclip">
+		<helpsystem name="help">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<pos>0 0.965</pos>
+		</helpsystem>
+	</view> 
 
-
-	
-	<!--
 	<include subset="iconset" name="1-snes">./_views/iconsets/snes.xml</include>
 	<include subset="iconset" name="2-xbox">./_views/iconsets/xbox.xml</include>
 	<include subset="iconset" name="3-psx">./_views/iconsets/psx.xml</include>
-	<include subset="iconset" name="4-arcade">./_views/iconsets/psx.xml</include>
+	<include subset="iconset" name="4-arcade">./_views/iconsets/arcadebuttons.xml</include>
+	
+	
+	
+	<!--
+	############################
+	SYSTEM VIEWS
+	############################
 	-->
-
+	<include>./_views/system/system_view.xml</include>
+	
+	<!--
+	############################
+	GAMELIST VIEWS
+	############################
+	-->
+	<include>./_views/game/detailed_view.xml</include>
 
 </theme>
