@@ -1,6 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
-	<view name="menu, system, basic, detailed, gameclip">
+	<view name="system, basic, detailed, gameclip">
 		<helpsystem name="help">
 			<iconB>../../_assets/buttons/snes/b.png</iconB>
 			<iconA>../../_assets/buttons/snes/a.png</iconA>
