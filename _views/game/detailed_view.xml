@@ -41,7 +41,7 @@
 		
 		<textlist name="gamelist">
 			<pos>0.60 0.18</pos>
-			<size>0.39 0.80</size>
+			<size>0.39 0.75</size>
 			<selectorColor>4646df80</selectorColor>
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
@@ -116,8 +116,8 @@
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
 			<fontSize>6</fontSize>
 			<color>cfcfcf</color>
-			<size>0.55 0.15</size>
-			<pos>0.015 0.79</pos>
+			<size>0.55 0.145</size>
+			<pos>0.014 0.78</pos>
 		</text>
          
 
