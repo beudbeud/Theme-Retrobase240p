@@ -1,25 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<theme>
-    <formatVersion>7</formatVersion>
-
-    <customView name="system, basic, detailed, video, grid, videoFullscreen, gridDetail, gridTitleshot, gridScreenshot">
-        <!-- Using ES ressources -->
-        <!-- https://github.com/batocera-linux/batocera-emulationstation/tree/master/resources/help -->
-        <helpsystem name="help">
-            <iconUpDown>../../_assets/buttons/menu-icons--arcade/updown.png</iconUpDown>
-            <iconLeftRight>../../_assets/buttons/menu-icons--arcade/leftright.png</iconLeftRight>
-            <iconUpDownLeftRight>../../_assets/buttons/menu-icons--arcade/all.png</iconUpDownLeftRight>
-
-            <iconA>../../_assets/buttons/menu-icons--arcade/a.png</iconA>
-            <iconB>../../_assets/buttons/menu-icons--arcade/b.png</iconB>
-            <iconX>../../_assets/buttons/menu-icons--arcade/x.png</iconX>
-            <iconY>../../_assets/buttons/menu-icons--arcade/y.png</iconY>
-
-            <iconL>../../_assets/buttons/menu-icons--arcade/l.png</iconL>
-            <iconR>../../_assets/buttons/menu-icons--arcade/r.png</iconR>
-            <iconStart>../../_assets/buttons/menu-icons--arcade/start.png</iconStart>
-            <iconSelect>../../_assets/buttons/menu-icons--arcade/select.png</iconSelect>
-        </helpsystem>
-    </customView>
-
+﻿=<theme>
+	<formatVersion>4</formatVersion>
+	<view name="menu, system, basic, detailed, gameclip">
+		<helpsystem name="help">
+			<iconB>../../_assets/buttons/arcade/b.png</iconB>
+			<iconA>../../_assets/buttons/arcade/a.png</iconA>
+			<iconX>../../_assets/buttons/arcade/x.png</iconX>
+			<iconY>../../_assets/buttons/arcade/y.png</iconY>
+			<iconR>../../_assets/buttons/arcade/r.png</iconR>
+			<iconUpDownLeftRight>../../_assets/buttons/arcade/dir-horizontal.png</iconUpDownLeftRight>
+			<iconUpDown>../../_assets/buttons/arcade/dir-vertical.png</iconUpDown>
+			<iconLeftRight>../../_assets/buttons/arcade/dir-horizontal.png</iconLeftRight>
+			<iconStart>../../_assets/buttons/arcade/start.png</iconStart>
+			<iconSelect>../../_assets/buttons/arcade/select.png</iconSelect>
+		</helpsystem>
+	</view>
 </theme>
