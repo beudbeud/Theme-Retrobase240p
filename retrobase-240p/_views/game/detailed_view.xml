@@ -38,21 +38,23 @@
 			<path>../../_assets/img/systems_logos/$system - whlogo-us.svg</path>
 		</image>
 
-		
-		<textlist name="gamelist">
+        
+        <textlist name="gamelist" extra="true">
 			<pos>0.60 0.18</pos>
-			<size>0.39 0.75</size>
+			<size>0.39 0.745</size>
 			<selectorColor>4646df80</selectorColor>
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>ffffff</secondaryColor>
-			<fontPath>:/f8bitfortressplus.ttf</fontPath>
-			<fontSize>6</fontSize>
+			<secondaryColor>ffffff</secondaryColor>			
 			<alignment>right</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
-			<selectorHeight>0.04</selectorHeight>
+			<selectorHeight>0.05</selectorHeight>
 			<zIndex>80</zIndex>
+            <fontPath>:/f8bitfortressplus.ttf</fontPath>
+            <fontSize>7</fontSize>
 			<forceUppercase>1</forceUppercase>
+            <!-- Line spacing en valeur entier obligatoire pour CRT -->
+            <lineSpacing>2</lineSpacing> 
 		</textlist>
    
    
@@ -86,7 +88,7 @@
 		</text>
 		<text name="md_players">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
-			<fontSize>6</fontSize>
+			<fontSize>7</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<size>0.144 0.02</size>
 			<color>cfcfcf</color>
@@ -108,13 +110,13 @@
 		</text>
 		<text name="no_image" extra="true">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
-			<fontSize>6</fontSize>
+			<fontSize>7</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<color>cfcfcf</color>
 		</text>
 		<text name="md_description">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
-			<fontSize>6</fontSize>
+			<fontSize>7</fontSize>
 			<color>cfcfcf</color>
 			<size>0.55 0.145</size>
 			<pos>0.014 0.78</pos>

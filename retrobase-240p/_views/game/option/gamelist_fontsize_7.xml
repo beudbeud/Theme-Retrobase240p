@@ -1,0 +1,27 @@
+﻿<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="basic, detailed">
+
+		<textlist name="gamelist">
+			<pos>0.60 0.18</pos>
+			<size>0.39 0.745</size>
+			<selectorColor>4646df80</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>			
+			<alignment>right</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+			<selectorHeight>0.05</selectorHeight>
+			<zIndex>80</zIndex>
+            <fontPath>:/f8bitfortressplus.ttf</fontPath>
+            <fontSize>7</fontSize>
+			<forceUppercase>1</forceUppercase>
+            <!-- Line spacing en valeur entier obligatoire pour CRT -->
+            <lineSpacing>2</lineSpacing>
+		</textlist> 
+   
+    </view>
+	
+	
+</theme>

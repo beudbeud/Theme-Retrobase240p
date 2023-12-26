@@ -1,0 +1,25 @@
+﻿<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="basic, detailed">
+
+		<textlist name="gamelist">
+			<pos>0.60 0.18</pos>
+			<size>0.39 0.75</size>
+			<selectorColor>4646df80</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>8</fontSize>
+			<alignment>right</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+			<selectorHeight>0.04</selectorHeight>
+			<zIndex>80</zIndex>
+			<forceUppercase>1</forceUppercase>
+		</textlist>
+
+    </view>
+	
+	
+</theme>

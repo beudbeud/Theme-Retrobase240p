@@ -44,6 +44,13 @@
 		</menuText>
 	</view>
     
+    <!-- SOUND -->
+    <view name="system">
+		<sound name="directory">
+			<path>../recalbox-next/music</path>
+		</sound>
+	</view>
+    
     <!-- MENU -->
 	<view name="menu">
         <menuBackground name="menubg">
@@ -104,5 +111,8 @@
 	############################
 	-->
 	<include>./_views/game/detailed_view.xml</include>
+	<include subset="gamelistview" name="taille de police 6px">./_views/game/option/gamelist_fontsize_6.xml</include>
+    <include subset="gamelistview" name="taille de police 7px">./_views/game/option/gamelist_fontsize_7.xml</include>
+    <include subset="gamelistview" name="taille de police 8px">./_views/game/option/gamelist_fontsize_8.xml</include>
 
 </theme>
