@@ -1,0 +1,1 @@
+[25/12/2023 14:46:45] layer "auto-strategywargame.jpg": Duplicate path: auto-strategywargame.jpg

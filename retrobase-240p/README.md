@@ -36,7 +36,9 @@ Gamelistview :
 ![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Gamelist2.png?raw=true) 
 ![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Gamelist3.png?raw=true) 
 Gamelistview FontSize option (6px 7px 8px)
-![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Gamelist.png?raw=true) 
+![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.2/Gamelist_6px.png?raw=true)
+![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.2/Gamelist_7px.png?raw=true)
+![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.2/Gamelist_8px.png?raw=true) 
 
 ![Menu](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Menu.png?raw=true) 
 
