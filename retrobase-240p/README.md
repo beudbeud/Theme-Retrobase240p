@@ -19,9 +19,9 @@ Version 1.1 : [retrobase-240p_1.1.zip](https://drive.google.com/file/d/1kNl7D5eB
 
 ## Screenshot
 
-SystemView with Helpbar:
+SystemView with Helpbar:  
 ![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview.png?raw=true)  
-SystemView :
+SystemView :  
 ![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_allgames.png?raw=true)
 ![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Atari2600.png?raw=true)
 ![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Atari-lynx.png?raw=true)
@@ -32,10 +32,10 @@ SystemView :
 ![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Sega-saturn.png?raw=true) 
 ![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Vectrex.png?raw=true)  
 
-Gamelistview :
+Gamelistview :  
 ![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Gamelist2.png?raw=true) 
 ![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Gamelist3.png?raw=true) 
-Gamelistview FontSize option (6px 7px 8px)
+Gamelistview FontSize option (6px 7px 8px)  
 ![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.2/Gamelist_6px.png?raw=true)
 ![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.2/Gamelist_7px.png?raw=true)
 ![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.2/Gamelist_8px.png?raw=true) 
