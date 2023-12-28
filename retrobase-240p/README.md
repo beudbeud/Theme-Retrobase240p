@@ -13,7 +13,7 @@ Recalbox >9 : OK
 Version 1.2 : [retrobase-240p_1.2.zip](https://drive.google.com/file/d/1a8nbyjQuNKr9gG9lvxDUr0wbupZPiSYz/view?usp=drive_link) 
 
 
-Version 1.1 : [retrobase-240p_1.1.zip](https://drive.google.com/file/d/1a8nbyjQuNKr9gG9lvxDUr0wbupZPiSYz/view?usp=drive_link)  
+Version 1.1 : [retrobase-240p_1.1.zip](https://drive.google.com/file/d/1kNl7D5eBGL_OTnBDNKEwX4wIU8uEfBjd/view?usp=sharing)  
 
 
 
