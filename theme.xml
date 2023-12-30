@@ -1,6 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
-	
+
 	<!--
 	############################
 	GLOBAL
@@ -27,12 +27,12 @@
 			<path>./_assets/img/systems_logos/$system - whlogo-us.png</path>
 			<path>./_assets/img/systems_logos/$system - whlogo-us.svg</path>
 		</image>    
-	
+
 		<helpsystem name="help">
-            <pos>1 1</pos>
-        </helpsystem>	    
+			<pos>1 1</pos>
+		</helpsystem>
 	</view>
-	
+
 	<view name="system, basic, detailed, gameclip">
 		<menuText name="menutext">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
@@ -43,46 +43,52 @@
 			<selectedColor>FFFFFFCC</selectedColor>
 		</menuText>
 	</view>
-    
-    <!-- SOUND -->
-    <view name="system">
+
+	<!-- SOUND -->
+	<view name="system">
 		<sound name="directory">
 			<path>../recalbox-next/music</path>
 		</sound>
 	</view>
-    
-    <!-- MENU -->
+
+	<!-- MENU -->
 	<view name="menu">
-        <menuBackground name="menubg">
-			<color>2c2c3cCC</color>
-			<path>./_assets/img/box_shadow.png</path>
-		</menuBackground>
-		<menuText name="menutitle">
-			<fontPath>:/f8bitfortressplus.ttf</fontPath>
-			<fontSize>0.038</fontSize>
-			<fontSize tinyScreen="true">0.046</fontSize>
-			<color>ffffff</color>
-		</menuText>
+		<menuSwitch name="menuswitch">
+		</menuSwitch>
+		<menuSize name="menuSize">
+			<height>0.7</height>
+		</menuSize>
+		<helpsystem name="help">
+		</helpsystem>
 		<menuText name="menufooter">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
-			<fontSize>0.025</fontSize>
+			<fontSize>7</fontSize>
 			<color>ffffff</color>
 		</menuText>
 		<menuText name="menutext">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
-			<fontSize>6</fontSize>
+			<fontSize>7</fontSize>
 			<color>ffffff</color>
 			<separatorColor>00000000</separatorColor>
 			<selectorColor>1d1d5b</selectorColor>
-			<selectedColor>ffffff</selectedColor>
+			<selectedColor>FFFFFFCC</selectedColor>
 		</menuText>
 		<menuTextSmall name="menutextsmall">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
-			<color>6d6dbc</color> 
+			<fontSize>7</fontSize>
+			<color>6d6dbc</color>
 		</menuTextSmall>
+		<menuText name="menutitle">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>14</fontSize>
+			<color>ffffff</color>
+		</menuText>
+		<menuBackground name="menubg">
+			<color>2c2c3cCC</color>
+		</menuBackground>
 	</view>
-    
-    <!-- HELP NAV -->
+
+	<!-- HELP NAV -->
 	<view name="menu, system, basic, detailed, gameclip">
 		<helpsystem name="help">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
@@ -95,16 +101,16 @@
 	<include subset="iconset" name="2-xbox">./_views/iconsets/xbox.xml</include>
 	<include subset="iconset" name="3-psx">./_views/iconsets/psx.xml</include>
 	<include subset="iconset" name="4-arcade">./_views/iconsets/arcadebuttons.xml</include>
-	
-	
-	
+
+
+
 	<!--
 	############################
 	SYSTEM VIEWS
 	############################
 	-->
 	<include>./_views/system/system_view.xml</include>
-	
+
 	<!--
 	############################
 	GAMELIST VIEWS
@@ -112,7 +118,7 @@
 	-->
 	<include>./_views/game/detailed_view.xml</include>
 	<include subset="gamelistview" name="taille de police 6px">./_views/game/option/gamelist_fontsize_6.xml</include>
-    <include subset="gamelistview" name="taille de police 7px">./_views/game/option/gamelist_fontsize_7.xml</include>
-    <include subset="gamelistview" name="taille de police 8px">./_views/game/option/gamelist_fontsize_8.xml</include>
+	<include subset="gamelistview" name="taille de police 7px">./_views/game/option/gamelist_fontsize_7.xml</include>
+	<include subset="gamelistview" name="taille de police 8px">./_views/game/option/gamelist_fontsize_8.xml</include>
 
 </theme>
